@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kamal
+ *
+ */
+module basicsofjava {
+}
